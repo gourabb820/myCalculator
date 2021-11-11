@@ -1,0 +1,19 @@
+.screen {
+    font-size: 25px;
+    font-family:'Segoe UI', 'Roboto', 'Oxygen';
+    margin-left: 15px;
+    margin-top:0px;
+    padding-top: 0px;
+  
+}
+.my-border{
+    border: 2px solid rgb(224, 182, 182);
+    border-radius: 5px;
+    width: 400px;
+    height: 100px;
+    padding-bottom: 20px;
+    margin-top:0px;
+    padding-top: 0px;
+    margin-bottom: 2px;;
+   
+}

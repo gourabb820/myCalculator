@@ -1,0 +1,13 @@
+.first-row{
+    display: flex;
+}
+
+.main-div{
+    margin: 5%;
+    margin-left: 30%;
+    /* margin-bottom: 10%; */
+}
+
+.equal{
+    width: 50px
+}
